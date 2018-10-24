@@ -1,0 +1,11 @@
+1. thrunk
+1.1 get by category
+1.2 pagination
+2. unit tests
+3. config - date format
+4. localization
+5. JSON Web Token
+6. Server side
+7. Routing async 
+8. eslint
+9. sort & order

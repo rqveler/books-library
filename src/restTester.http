@@ -1,0 +1,19 @@
+PUT http://localhost:3006/books/d7bb95b6-5a55-4334-bac1-c606272614e6 HTTP/1.1
+content-type: application/json
+
+{
+  "id": "d7bb95b6-5a55-4334-bac1-c606272614e6",
+  "copy": 1,
+  "author": "Matt Welch",
+  "title": "Borders Plaza Colorado",
+  "category": "Drama",
+  "maxLoanDuration": 14,
+  "loanedAt": "10-12-2016"
+}
+
+
+http://localhost:3006/books
+
+http://localhost:3006/books/d7bb95b6-5a55-4334-bac1-c606272614e6
+
+
